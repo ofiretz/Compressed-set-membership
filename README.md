@@ -1,6 +1,6 @@
 # Compressed-set-membership
 
-This tool is art of my research.
+This tool was part of my research.
 I implemented an probobalistic pigeonhole-based set-membership data structure for DNA sequences.
 
-First use TrieBuilder class for the construction the tool (create an serializable file), then you can query it.
+First, use TrieBuilder class for the construction of the tool (create an serializable object), then you can query it.
